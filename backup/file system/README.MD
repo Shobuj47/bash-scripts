@@ -3,12 +3,12 @@
 > Note:	Add each backups configuration as an array. Don't put the leading slash after each directory location
 
 
-## Configure Script Log Directory Location. i.e. /app/script_log
+### Configure Script Log Directory Location. i.e. /app/script_log
 ```Bash
 logdir="/app/script_log"
 ```
-* Full Backups ##########################
-### Total number of days that each backup files are going to be keept. i.e. Number of days = 3
+## Full Backups
+* Total number of days that each backup files are going to be keept. i.e. Number of days = 3
 ```Bash 
 backup_retention[0]=3
 ```
