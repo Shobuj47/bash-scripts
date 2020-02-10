@@ -1,6 +1,7 @@
 # File System Backup Script
 
 > Note:	Add each backups configuration as an array. Don't put the leading slash after each directory location
+>> Tested within Red Hat Linux 7 and CentOS 7
 
 
 ### Configure Script Log Directory Location. i.e. /app/script_log
